@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle Seman
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning JavaScript in MIT's full stack professional certificate program.
+- 🌱 I’m currently learning JavaScript in MIT's full stack with MERN professional certificate program.
 - 📫 How to reach me: semanmichelle@gmail.com
 
 <!---
