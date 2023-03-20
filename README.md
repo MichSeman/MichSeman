@@ -3,6 +3,7 @@
 - 🌱 I've recently earned a Professional Certificate from MIT for web devlopment with JavaScript and full stack with MERN
 - 🌸 I'm currently enrolled in SheCodes Pro workshop
 - 📫 How to reach me: semanmichelle@gmail.com
+- 👩‍💻 Portfolio site: https://astonishing-bombolone-2e17ca.netlify.app/
 
 <!---
 MichSeman/MichSeman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
