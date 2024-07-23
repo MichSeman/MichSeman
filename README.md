@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle Seman
-- 👀 I’m interested in front-end development
-- 🌱 I've recently earned a Professional Certificate from MIT for web devlopment with JavaScript and full stack with MERN
+- 👀 I’m interested in software testing, technical documentation, and front-end development
+- 🌱 I've earned a Professional Certificate from MIT for web development with JavaScript and full stack with MERN
 - 🌸 I'm currently working as a junior web developer & QA engineer
 - 📫 How to reach me: semanmichelle@gmail.com
 - 👩‍💻 Portfolio site: https://astonishing-bombolone-2e17ca.netlify.app/
